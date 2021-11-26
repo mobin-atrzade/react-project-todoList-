@@ -13,5 +13,4 @@ const Todo = ({ todo, onComplete, onDelete, onEdit }) => {
         </div>
     )
 }
-
 export default Todo;
