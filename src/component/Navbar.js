@@ -22,5 +22,4 @@ const Navbar = ({ unCompletedTodos, selectedOption, onChange }) => {
         </header>
     )
 }
-
 export default Navbar;
